@@ -1,0 +1,4 @@
+network-	Average epoch time
+(2,4,2)-	54328
+(2,8,2)-	44625
+(2,2,2)-	More than (2,4,2) and (2,8,2)
